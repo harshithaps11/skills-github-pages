@@ -4,10 +4,10 @@ title: Cracking Codes, Securing Futures | Harshitha P S
 
 # Welcome to My blog!
 
-Hello! I'm [Your Name], a passionate [Your Profession/Role, e.g., "Information Science Student," "Cybersecurity Enthusiast," "Python Developer Intern," etc.]. 
+Hello! I'm Harshitha P S, a passionate Cybersecurity Enthusiast. 
 
 ## About Me
-I'm currently studying at NMAM Institute of Technology and have a keen interest in cybersecurity,web development and machine learning.  
+I have a keen interest in cybersecurity,web development and machine learning.  
 I love working on innovative projects.
 
 ## My Skills
